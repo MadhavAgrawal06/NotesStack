@@ -7,7 +7,8 @@ Built with **HTML**, **CSS**, and a bit of **JavaScript**, the notes are linked 
 
 ## 🚀 Live Preview
 
-> 🧪 You can deploy this project on [Netlify](https://www.netlify.com/) or GitHub Pages for live sharing.
+🔗 [View Live Site](https://notesstacks.netlify.app)  
+> Deployed on **Netlify*
 
 ---
 
